@@ -1,5 +1,7 @@
 # SF-B9.2-B9.3-Composer-NPM-homework
-<details><summary>## Задание B9.2.7:</summary>
+
+## Задание B9.2.7:
+<details><summary>Список</summary>
 <p>
 
 
@@ -14,8 +16,8 @@
 </p>
 </details>
 
-
-<details><summary>## Задание B9.3.4:</summary>
+## Задание B9.3.4:
+<details><summary>Список</summary>
 <p>
 
 
