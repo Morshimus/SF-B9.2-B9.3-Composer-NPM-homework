@@ -1,7 +1,7 @@
 # SF-B9.2-B9.3-Composer-NPM-homework
-<details><summary>9.2.7</summary>
+<details><summary>## Задание B9.2.7:</summary>
 <p>
-## Задание B9.2.7:
+
 
 * [x] - :one: **Установите Node.js.**
 * [x] - :two: **Установите npm.**
@@ -15,9 +15,9 @@
 </details>
 
 
-<details><summary>9.3.4</summary>
+<details><summary>## Задание B9.3.4:</summary>
 <p>
-## Задание B9.3.4:
+
 
 * [x] - :one: **Установите composer локально к себе в проект.**
 * [x] - :two: **Установите библиотеку swiftmailer.**
