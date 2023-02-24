@@ -1,0 +1,22 @@
+{
+  "name": "sf-b9.2-b9.3-composer-npm-homework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morshimus/SF-B9.2-B9.3-Composer-NPM-homework.git"
+  },
+  "author": "DD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morshimus/SF-B9.2-B9.3-Composer-NPM-homework/issues"
+  },
+  "homepage": "https://github.com/Morshimus/SF-B9.2-B9.3-Composer-NPM-homework#readme",
+  "dependencies": {
+    "jquerry": "^0.0.1-security"
+  }
+}
